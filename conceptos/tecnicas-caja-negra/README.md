@@ -2,7 +2,7 @@
 
 - **Área:** Pruebas de software (QA)
 - **Estado:** repasado
-- **Fecha de cierre:** 2025-10-31
+- **Fecha de cierre:** 2026-10-31
 
 ## Qué es
 
